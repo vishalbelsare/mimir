@@ -1,3 +1,9 @@
+# Repository Moved
+
+This repository now lives at https://git.odin.cse.buffalo.edu/Mimir/mimir-cli
+
+---------
+
 # The Mimir Data-Ish Exploration Tool
 
 One of the biggest costs in analytics is data wrangling: getting your messy, mis-labeled, disorganized data into a format that you can actually ask questions about. Unfortunately, most tools for data wrangling force you to do all of this work upfront — before you actually know what you even want to do with the data.
